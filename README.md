@@ -2,11 +2,11 @@
 保存图片到自定义相册框架
 
 
-`
+
 调用此类之前在 info.plist 中添加以下字段
-Privacy - Photo Library Usage Description
-Privacy - Camera Usage Description
-`
+- Privacy - Photo Library Usage Description
+- Privacy - Camera Usage Description
+
 
 
 ### 保存图片到自定义相册
